@@ -1,6 +1,7 @@
+
 # 📊 Mapping Minds: A Tableau Analysis of U.S. University Trends
 
-
+![20250518_1841_Education Data Visualized_simple_compose_01jvhsyynge1bveszwzg622en7](https://github.com/user-attachments/assets/2333699f-f66b-4480-8024-e76ea5d81911)
 This project presents a detailed visualization and analysis of enrollment patterns across American universities using Tableau. The data was first cleaned in Excel and then visualized using various charts and maps in Tableau to uncover meaningful insights.
 
 ## 🛠 Tools Used
