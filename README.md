@@ -1,5 +1,42 @@
-     American-Universities-Analysis-Dashboard
-Executed a comprehensive data cleansing and harnessed an array of visualization techniques within the "American Universities Analysis" endeavor.
-Undertook meticulous data refinement in Excel, rectifying anomalies such as duplicates and missing values.
-Leveraged Tableau to craft an assortment of visual representations, spanning line charts, bar graphs, and map charts, facilitating an exhaustive exploration of enrollment data, distinction between Private and Public Universities, regional enrollment trends, scholarship allocation, and urban enrollment dynamics. These insights furnish invaluable support for informed decision-making within the education sector, furnishing actionable intelligence for stakeholders.
-     
+# 📊 Mapping Minds: A Tableau Analysis of U.S. University Trends
+
+
+This project presents a detailed visualization and analysis of enrollment patterns across American universities using Tableau. The data was first cleaned in Excel and then visualized using various charts and maps in Tableau to uncover meaningful insights.
+
+## 🛠 Tools Used
+- Excel (for data cleaning)
+- Tableau (for data visualization)
+
+## 🧹 Data Cleaning
+- Removed duplicates and handled missing values
+- Standardized inconsistent entries
+- Prepared the dataset for visualization
+
+## 📈 Visualizations Created
+- 📌 Total vs Full-time vs Part-time Enrollment by Region
+- 📌 Public vs Private Universities Map View
+- 📌 Total Enrollment by Region
+- 📌 Urban Area-wise Enrollment Tree Map
+- 📌 Scholarships and Financial Aid Distribution
+
+## 🔍 Key Insights
+- Southern region leads in total enrollment
+- Public institutions dominate geographically
+- Financial aid distribution shows variations by institution type
+- Urban areas, especially large cities and suburbs, report higher enrollment numbers
+
+## 🎯 Objective
+To explore and interpret the landscape of higher education in the U.S. through a visual analysis that supports informed decision-making in the education sector.
+
+## 📷 Dashboard Snapshot
+![American Universities Analysis](Tableau%202.png)
+
+## 📁 Project Files
+- Tableau Dashboard (.twbx)
+- Cleaned Excel Dataset (.xlsx)
+- Dashboard Screenshot (.png)
+
+## 🤝 Let's Connect!
+If you're interested in data visualization, analytics, or educational insights, feel free to connect!
+
+---
